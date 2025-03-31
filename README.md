@@ -1,2 +1,2 @@
-# hsu-ai-kaggle-titanic
-kaggle assignment for HSU AI class
+# hsu-ai-unsup-learning
+unsupervised learning kaggle assignment for HSU AI class
